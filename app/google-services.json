@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471330643381",
+    "project_id": "labapp-firebase-1147e",
+    "storage_bucket": "labapp-firebase-1147e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471330643381:android:7792244401673652b1cdfc",
+        "android_client_info": {
+          "package_name": "com.example.labapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7jg_4c5eiUv7eSn1AJfDnTilpm2A1GOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471330643381:android:3388717f2bcdae21b1cdfc",
+        "android_client_info": {
+          "package_name": "com.example.nodeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7jg_4c5eiUv7eSn1AJfDnTilpm2A1GOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
